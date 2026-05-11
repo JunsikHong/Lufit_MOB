@@ -58,6 +58,8 @@ packages:
     source: hosted
     version: "1.3.3"
   flutter:
+    assets:
+      - assets/
     dependency: "direct main"
     description: flutter
     source: sdk
